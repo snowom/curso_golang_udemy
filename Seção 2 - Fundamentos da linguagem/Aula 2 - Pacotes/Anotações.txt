@@ -1,0 +1,8 @@
+=-=-=-=-=-=-=-=-=-= Módulos =-=-=-=-=-=-=-=-=-=-=
+
+--> go mod init "nome_do_modulo" = Cria um módulo (Funciona como um gereneciador de depenencias);
+--> go build = Compila em um arquivo executável (com o mesmo nome do módulo) todos os arquivos e pacotes que estão no mesmo nível ou abaixo do módulo;
+
+=-=-=--=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+--> Pacote = Conjunto de arquivos que estão na mesma pasta/diretório

@@ -1,0 +1,6 @@
+=-=-=-=-=-=-=-=-=-=-=--= Pacotes Externas =-=-=-=-=-=-=-=-=-=-=--=
+
+Para se baixar um pacote externo, é necessário que o pacote ou o projeto tenha um módulo criado!
+
+--> go get "nome_do_pacote" = Baixa pacote(e suas dependencias) no projeto
+--> go mod tidy = Remove todas as dependencias não utilizadas no projeto do arquivo go.mod
