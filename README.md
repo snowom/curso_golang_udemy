@@ -1,4 +1,4 @@
-# curso_golang_udemy
+# Curso de Golang Udemy
 Repositório com exercícios feitos em aulas do curso de Go
 
 <p align=center>
